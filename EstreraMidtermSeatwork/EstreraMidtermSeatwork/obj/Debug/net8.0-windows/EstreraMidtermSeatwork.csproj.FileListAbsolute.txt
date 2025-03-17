@@ -1,0 +1,16 @@
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\bin\Debug\net8.0-windows\EstreraMidtermSeatwork.exe
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\bin\Debug\net8.0-windows\EstreraMidtermSeatwork.deps.json
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\bin\Debug\net8.0-windows\EstreraMidtermSeatwork.runtimeconfig.json
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\bin\Debug\net8.0-windows\EstreraMidtermSeatwork.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\bin\Debug\net8.0-windows\EstreraMidtermSeatwork.pdb
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\EstreraMidtermSeatwork.Form1.resources
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\EstreraMidtermSeatwork.csproj.GenerateResource.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\EstreraMidtermSeatwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\EstreraMidtermSeatwork.AssemblyInfoInputs.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\EstreraMidtermSeatwork.AssemblyInfo.cs
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\EstreraMidtermSeatwork.csproj.CoreCompileInputs.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\EstreraMidtermSeatwork.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\refint\EstreraMidtermSeatwork.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\EstreraMidtermSeatwork.pdb
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\EstreraMidtermSeatwork.genruntimeconfig.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\EstreraMidtermSeatwork\EstreraMidtermSeatwork\obj\Debug\net8.0-windows\ref\EstreraMidtermSeatwork.dll
