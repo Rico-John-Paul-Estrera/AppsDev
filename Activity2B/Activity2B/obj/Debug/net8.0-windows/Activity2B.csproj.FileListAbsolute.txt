@@ -1,0 +1,17 @@
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\bin\Debug\net8.0-windows\Activity2B.exe
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\bin\Debug\net8.0-windows\Activity2B.deps.json
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\bin\Debug\net8.0-windows\Activity2B.runtimeconfig.json
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\bin\Debug\net8.0-windows\Activity2B.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\bin\Debug\net8.0-windows\Activity2B.pdb
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.Form1.resources
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.csproj.GenerateResource.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.AssemblyInfoInputs.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.AssemblyInfo.cs
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.csproj.CoreCompileInputs.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\refint\Activity2B.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.pdb
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.genruntimeconfig.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\ref\Activity2B.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\Activity2B\Activity2B\obj\Debug\net8.0-windows\Activity2B.Form2.resources
