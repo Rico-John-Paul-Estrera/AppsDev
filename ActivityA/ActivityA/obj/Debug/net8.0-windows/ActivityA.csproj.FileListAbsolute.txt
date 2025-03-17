@@ -1,0 +1,16 @@
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\bin\Debug\net8.0-windows\ActivityA.exe
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\bin\Debug\net8.0-windows\ActivityA.deps.json
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\bin\Debug\net8.0-windows\ActivityA.runtimeconfig.json
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\bin\Debug\net8.0-windows\ActivityA.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\bin\Debug\net8.0-windows\ActivityA.pdb
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ActivityA.Form1.resources
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ActivityA.csproj.GenerateResource.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ActivityA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ActivityA.AssemblyInfoInputs.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ActivityA.AssemblyInfo.cs
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ActivityA.csproj.CoreCompileInputs.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ActivityA.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\refint\ActivityA.dll
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ActivityA.pdb
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ActivityA.genruntimeconfig.cache
+C:\Users\RACUL\Downloads\CODE\C#\MIDTERM ACT\ActivityA\ActivityA\obj\Debug\net8.0-windows\ref\ActivityA.dll
