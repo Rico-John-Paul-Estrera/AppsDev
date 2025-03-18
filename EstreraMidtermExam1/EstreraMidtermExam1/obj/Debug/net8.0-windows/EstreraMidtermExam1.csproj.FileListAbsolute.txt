@@ -1,0 +1,16 @@
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\bin\Debug\net8.0-windows\EstreraMidtermExam1.exe
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\bin\Debug\net8.0-windows\EstreraMidtermExam1.deps.json
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\bin\Debug\net8.0-windows\EstreraMidtermExam1.runtimeconfig.json
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\bin\Debug\net8.0-windows\EstreraMidtermExam1.dll
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\bin\Debug\net8.0-windows\EstreraMidtermExam1.pdb
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\EstreraMidtermExam1.Form1.resources
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\EstreraMidtermExam1.csproj.GenerateResource.cache
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\EstreraMidtermExam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\EstreraMidtermExam1.AssemblyInfoInputs.cache
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\EstreraMidtermExam1.AssemblyInfo.cs
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\EstreraMidtermExam1.csproj.CoreCompileInputs.cache
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\EstreraMidtermExam1.dll
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\refint\EstreraMidtermExam1.dll
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\EstreraMidtermExam1.pdb
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\EstreraMidtermExam1.genruntimeconfig.cache
+C:\Users\VOYAGER\source\repos\MIDTERM\EstreraMidtermExam1\EstreraMidtermExam1\obj\Debug\net8.0-windows\ref\EstreraMidtermExam1.dll
