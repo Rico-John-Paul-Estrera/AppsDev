@@ -1,0 +1,17 @@
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\bin\Debug\net8.0-windows\Estrera_Activity1.exe
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\bin\Debug\net8.0-windows\Estrera_Activity1.deps.json
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\bin\Debug\net8.0-windows\Estrera_Activity1.runtimeconfig.json
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\bin\Debug\net8.0-windows\Estrera_Activity1.dll
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\bin\Debug\net8.0-windows\Estrera_Activity1.pdb
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.Form1.resources
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.csproj.GenerateResource.cache
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.AssemblyInfoInputs.cache
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.AssemblyInfo.cs
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.csproj.CoreCompileInputs.cache
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.dll
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\refint\Estrera_Activity1.dll
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.pdb
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.genruntimeconfig.cache
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\ref\Estrera_Activity1.dll
+C:\Users\RACUL\Downloads\CODE\C#\SEMI-FINAL\Estrera_Activity1\Estrera_Activity1\obj\Debug\net8.0-windows\Estrera_Activity1.Properties.Resources.resources
