@@ -1,0 +1,9 @@
+Z:\II320\SEMI-FINAL\Estrera_Activity2.0\Estrera_Activity2.0\bin\Debug\Estrera_Activity2.0.exe.config
+Z:\II320\SEMI-FINAL\Estrera_Activity2.0\Estrera_Activity2.0\obj\Debug\Estrera_Activity2.0.csprojResolveAssemblyReference.cache
+Z:\II320\SEMI-FINAL\Estrera_Activity2.0\Estrera_Activity2.0\obj\Debug\Estrera_Activity2._0.Form1.resources
+Z:\II320\SEMI-FINAL\Estrera_Activity2.0\Estrera_Activity2.0\obj\Debug\Estrera_Activity2._0.Properties.Resources.resources
+Z:\II320\SEMI-FINAL\Estrera_Activity2.0\Estrera_Activity2.0\obj\Debug\Estrera_Activity2.0.csproj.GenerateResource.Cache
+Z:\II320\SEMI-FINAL\Estrera_Activity2.0\Estrera_Activity2.0\bin\Debug\Estrera_Activity2.0.exe
+Z:\II320\SEMI-FINAL\Estrera_Activity2.0\Estrera_Activity2.0\bin\Debug\Estrera_Activity2.0.pdb
+Z:\II320\SEMI-FINAL\Estrera_Activity2.0\Estrera_Activity2.0\obj\Debug\Estrera_Activity2.0.exe
+Z:\II320\SEMI-FINAL\Estrera_Activity2.0\Estrera_Activity2.0\obj\Debug\Estrera_Activity2.0.pdb
