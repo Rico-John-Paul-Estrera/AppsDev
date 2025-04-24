@@ -1,8 +1,0 @@
-Z:\II320\SEMI-FINAL\Estrera_Activity2\Estrera_Activity2\bin\Debug\Estrera_Activity2.exe.config
-Z:\II320\SEMI-FINAL\Estrera_Activity2\Estrera_Activity2\bin\Debug\Estrera_Activity2.exe
-Z:\II320\SEMI-FINAL\Estrera_Activity2\Estrera_Activity2\bin\Debug\Estrera_Activity2.pdb
-Z:\II320\SEMI-FINAL\Estrera_Activity2\Estrera_Activity2\obj\Debug\Estrera_Activity2.Form1.resources
-Z:\II320\SEMI-FINAL\Estrera_Activity2\Estrera_Activity2\obj\Debug\Estrera_Activity2.Properties.Resources.resources
-Z:\II320\SEMI-FINAL\Estrera_Activity2\Estrera_Activity2\obj\Debug\Estrera_Activity2.csproj.GenerateResource.Cache
-Z:\II320\SEMI-FINAL\Estrera_Activity2\Estrera_Activity2\obj\Debug\Estrera_Activity2.exe
-Z:\II320\SEMI-FINAL\Estrera_Activity2\Estrera_Activity2\obj\Debug\Estrera_Activity2.pdb
